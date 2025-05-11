@@ -433,7 +433,7 @@ psus:
     voltage: 48
 
 hardware:
-  platform: smart_virtual
+  platform: fast
   coils: default
   switches: default
   lights: default
